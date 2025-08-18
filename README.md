@@ -43,9 +43,10 @@ cd Secure_Chat_App
 ```
 Or just download the ZIP and extract it.
 
-2. 📦 Install Python (if not installed)
+### 2. 📦 Install Python (if not installed)
 
 Make sure Python 3 is installed:
 ```
 python --version
 ```
+If not, download from: https://www.python.org/downloads/
