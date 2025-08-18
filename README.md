@@ -119,3 +119,12 @@ Open multiple terminals to connect multiple clients.
 | Confidentiality | Protects against eavesdropping/sniffing        |
 | Authentication  | Optional with mutual TLS (client certificates) |
 ```
+
+
+### 📜 License
+This project is licensed under the MIT License.
+
+
+### 🙋‍♂️ Author
+
+Developed by `AAYUSH SHAKYAWAR`
