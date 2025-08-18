@@ -44,6 +44,8 @@ cd Secure_Chat_App
 ```
 Or just download the ZIP and extract it.
 
+---
+
 ### 2. 📦 Install Python (if not installed)
 
 Make sure Python 3 is installed:
@@ -51,6 +53,8 @@ Make sure Python 3 is installed:
 python --version
 ```
 If not, download from: https://www.python.org/downloads/
+
+---
 
 ### 3. 🔐 Generate SSL Certificate (Optional)
 
@@ -62,6 +66,7 @@ openssl req -new -x509 -days 365 -nodes -out certs/server.crt -keyout certs/serv
 
 You can customize the details when prompted.
 
+---
 
 ### 🚀 How to Run
 #### 🔹 Start the Server
