@@ -1,3 +1,4 @@
+
 # Secure_chat_App
 Secure Chat App using TLS (SSL over Sockets)  Terminal-based chat application that uses **TLS/SSL over sockets** to ensure encrypted communication between clients and a server. 
 Built with **Python**, it demonstrates key cybersecurity principles including encryption, certificate handling, and secure client-server communication.
@@ -50,3 +51,13 @@ Make sure Python 3 is installed:
 python --version
 ```
 If not, download from: https://www.python.org/downloads/
+
+### 3. 🔐 Generate SSL Certificate (Optional)
+
+Already included, but you can regenerate:
+```
+mkdir certs
+openssl req -new -x509 -days 365 -nodes -out certs/server.crt -keyout certs/server.key
+```
+
+You can customize the details when prompted.
