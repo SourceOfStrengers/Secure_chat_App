@@ -40,3 +40,12 @@ secure_chat/
 ```bash
 git clone https://github.com/SourceOfStrengers/Secure_Chat_App.git
 cd Secure_Chat_App
+```
+Or just download the ZIP and extract it.
+
+2. 📦 Install Python (if not installed)
+
+Make sure Python 3 is installed:
+```
+python --version
+```
