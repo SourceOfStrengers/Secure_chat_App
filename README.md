@@ -23,3 +23,20 @@ secure_chat/
 │ └── server.key # Private key
 └── README.md # Project instructions
 ```
+
+---
+
+## ⚙️ Requirements
+
+- Python 3.6+
+- OpenSSL (for certificate generation)
+
+---
+
+## 🔧 Setup Instructions
+
+### 1. 🔽 Clone the Repository
+
+```bash
+git clone https://github.com/SourceOfStrengers/Secure_Chat_App.git
+cd Secure_Chat_App
