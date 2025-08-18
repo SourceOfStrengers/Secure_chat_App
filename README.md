@@ -68,3 +68,11 @@ You can customize the details when prompted.
 ```
 python server.py
 ```
+The server will start on `127.0.0.1:65432`.
+
+
+#### 🔹 Run the Client (In a new terminal)
+```
+python client.py
+```
+Open multiple terminals to connect multiple clients.
