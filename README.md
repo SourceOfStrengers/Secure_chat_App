@@ -76,3 +76,10 @@ The server will start on `127.0.0.1:65432`.
 python client.py
 ```
 Open multiple terminals to connect multiple clients.
+
+
+### 💬 Usage
+
+* Type a message and press Enter to send.
+* Messages will be broadcast to all other connected clients.
+* Type exit to disconnect.
