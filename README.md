@@ -64,7 +64,7 @@ You can customize the details when prompted.
 
 
 ### 🚀 How to Run
-## 🔹 Start the Server
+#### 🔹 Start the Server
 ```
 python server.py
 ```
