@@ -97,3 +97,12 @@ Open multiple terminals to connect multiple clients.
  ** Use CA-signed certificates
  ** Enable client certificate validation
   ** Set `verify_mode = ssl.CERT_REQUIRED`
+
+
+### 🔄 Future Improvements
+
+* GUI with Tkinter or PyQt
+* Authentication (username/password)
+* End-to-end encryption (on top of TLS)
+* File transfer over secure channel
+* Docker containerization
