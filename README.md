@@ -32,7 +32,7 @@ secure_chat/
 - Python 3.6+
 - OpenSSL (for certificate generation)
 
----
+--
 
 ## 🔧 Setup Instructions
 
@@ -44,7 +44,7 @@ cd Secure_Chat_App
 ```
 Or just download the ZIP and extract it.
 
----
+--
 
 ### 2. 📦 Install Python (if not installed)
 
@@ -54,7 +54,7 @@ python --version
 ```
 If not, download from: https://www.python.org/downloads/
 
----
+--
 
 ### 3. 🔐 Generate SSL Certificate (Optional)
 
