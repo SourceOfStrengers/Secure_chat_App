@@ -14,3 +14,11 @@ Built with **Python**, it demonstrates key cybersecurity principles including en
 ---
 
 ## 📁 Project Structure
+
+secure_chat/
+├── server.py # Secure chat server
+├── client.py # Secure chat client
+├── certs/
+│ ├── server.crt # Self-signed certificate
+│ └── server.key # Private key
+└── README.md # Project instructions
