@@ -94,6 +94,6 @@ Open multiple terminals to connect multiple clients.
 
 * This app uses TLS/SSL with a self-signed certificate.
 * For production:
-      * Use CA-signed certificates
-      * Enable client certificate validation
-      * Set `verify_mode = ssl.CERT_REQUIRED`
+ ** Use CA-signed certificates
+ ** Enable client certificate validation
+  ** Set `verify_mode = ssl.CERT_REQUIRED`
