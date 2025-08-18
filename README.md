@@ -106,3 +106,16 @@ Open multiple terminals to connect multiple clients.
 * End-to-end encryption (on top of TLS)
 * File transfer over secure channel
 * Docker containerization
+
+
+### 🧠 Cybersecurity Concepts Demonstrated
+  
+```
+| Concept         | Description                                    |
+| --------------- | ---------------------------------------------- |
+| TLS Encryption  | Secures data in transit                        |
+| Certificate     | Validates server identity                      |
+| Integrity       | Prevents tampering during transmission         |
+| Confidentiality | Protects against eavesdropping/sniffing        |
+| Authentication  | Optional with mutual TLS (client certificates) |
+```
